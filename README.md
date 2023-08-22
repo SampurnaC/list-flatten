@@ -17,6 +17,8 @@ import list-flatten as flatten_list2darr
 
 # returns 'words'
 print(flatten_list2darr([[1,2], [3,4,5]]))
+print(flatten_list3darr([[[1,2], [3,4], [5,6,7]]]))
+
 
 
 ## Contributing
