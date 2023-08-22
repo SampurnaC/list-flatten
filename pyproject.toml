@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "list-flatten"
-version = "0.1.2"
+version = "0.1.3"
 description = "A simple python package to flatten a list of lists. Works for 2d and 3d lists."
 authors = ["Sampurna Chapagain <sampurna.chapagainnn@gmail.com>"]
 readme = "README.md"
